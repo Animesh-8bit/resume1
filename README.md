@@ -19,23 +19,6 @@
 * Strong analytical mindset with a proven record of improving adoption, performance, and business processes.
 
 ---
-<!-- 
-## ****
-
-* Cross-Functional Collaboration
-* Pre-Sales / Catalogue Management
-* Client / Stakeholder Management
-* Feature Prioritization & Release Management
-* Vendor & Supplier Management
-* User Story & Test Case Development
-* Product Lifecycle Management
-* B2B SaaS Product Deployment
-* Requirement Gathering & PRD Creation
-* GTM Planning & Execution
-* Agile & Scrum Methodologies
-* Product Roadmap & Governance
-
---- -->
 
 <table>
   <tr>
