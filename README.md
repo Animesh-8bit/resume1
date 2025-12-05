@@ -42,31 +42,31 @@
     <!-- LEFT COLUMN -->
     <td style="width: 30%; vertical-align: top; padding-right: 20px;>
       <div style="display: flex; flex-direction: column; justify-content: flex-start;">
-        <h3>Core Competencies</h3>
+<h3>Core Competencies</h3>
 
-        - Cross-Functional Collaboration <br>
-        - Pre-Sales / Catalogue Management<br>
-        - Client / Stakeholder Management<br>
-        - Feature Prioritization & Release Management<br>
-        - Vendor & Supplier Management<br>
-        - User Story & Test Case Development<br>
-        - Product Lifecycle Management<br>
-        - B2B SaaS Product Deployment<br>
-        - Requirement Gathering & PRD Creation<br>
-        - GTM Planning & Execution<br>
-        - Agile & Scrum Methodologies<br>
-        -   Product Roadmap & Governance<br>
-        <h3>Education</h3>
-            <p><strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023</p>
-            <p><strong>B.A. English (Hons.)</strong><br>Magadh University, 2019</p>
-        <h3> Skills</h3>
-            <ul>
-                <li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
-                <li><strong>Project Management:</strong> JIRA, Confluence</li>
-                <li><strong>Prototyping & Design:</strong> Figma, Canva, Whimsical</li>
-                <li><strong>CRM:</strong> Freshdesk, Zendesk, Ozonetel, Gupshup</li>
-                <li><strong>API & Testing:</strong> Postman</li>
-            </ul>
+- Cross-Functional Collaboration <br>
+- Pre-Sales / Catalogue Management<br>
+- Client / Stakeholder Management<br>
+- Feature Prioritization & Release Management<br>
+- Vendor & Supplier Management<br>
+- User Story & Test Case Development<br>
+- Product Lifecycle Management<br>
+- B2B SaaS Product Deployment<br>
+- Requirement Gathering & PRD Creation<br>
+- GTM Planning & Execution<br>
+- Agile & Scrum Methodologies<br>
+-   Product Roadmap & Governance<br>
+<h3>Education</h3>
+<p><strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023</p>
+<p><strong>B.A. English (Hons.)</strong><br>Magadh University, 2019</p>
+<h3> Skills</h3>
+<ul>
+<li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
+<li><strong>Project Management:</strong> JIRA, Confluence</li>
+<li><strong>Prototyping & Design:</strong> Figma, Canva, Whimsical</li>
+<li><strong>CRM:</strong> Freshdesk, Zendesk, Ozonetel, Gupshup</li>
+<li><strong>API & Testing:</strong> Postman</li>
+</ul>
         </div>
     </td>       
 <td style="width: 70%; vertical-align: top">
