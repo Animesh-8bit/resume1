@@ -141,4 +141,3 @@
 * Designed and implemented a **lead scoring framework** using historical conversion data, deal size patterns, and business attributes.
 * Automated lead classification into **High / Medium / Low potential**, enabling faster decision‑making for sales teams.
 * Improved **lead routing accuracy**, increased **conversion rates**, and reduced manual evaluation time.
-
