@@ -38,9 +38,9 @@
 - Agile & Scrum Methodologies<br>
 - Product Roadmap & Governance<br>
 <h3>Education</h3>
-<p><strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023</p>
-<p><strong>B.A. English (Hons.)</strong><br>Magadh University, 2019</p>
-<h3> Skills</h3>
+- <strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023
+- <strong>B.A. English (Hons.)</strong><br>Magadh University, 2019
+<h3> Tools</h3>
 <ul>
 <li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
 <li><strong>Project Management:</strong> JIRA, Confluence</li>
