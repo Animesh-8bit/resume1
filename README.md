@@ -40,7 +40,7 @@
 <table>
   <tr>
     <!-- LEFT COLUMN -->
-    <td style="width: 30%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 30%; vertical-align: top;">
 
 <h3>Core Competencies</h3>
 
