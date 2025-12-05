@@ -119,13 +119,11 @@
 * Built QR-based sticker printing → TAT **3 days → on-demand**, cost **$10/month → zero**.
 * Improved messaging delivery rates **73% → 84%** via auto-rechanneling.
 
----
-
 </table>
 
 ### **Projects**
 
-#### **Deal Mining & High-Value Opportunity Identification**
+#### **Deal Mining & High-Value Opportunity Identification - Infra.Market**
 
 * Identified hidden high-value opportunities across the CRM by analyzing deal lifecycle patterns, probability indicators, commercial behavior, and historical performance.
 
@@ -133,7 +131,7 @@
 
 * Enabled targeted outreach by sales teams, resulting in **32% conversion** of mined high-value deals and generating **₹1.3 Cr in direct revenue**.
 
-#### **Lead Prioritization & Deal Potential Scoring System**
+#### **Lead Prioritization & Deal Potential Scoring System - Infra.Market**
 
 * Identified a critical gap in CRM where new inbound leads had **no clarity on prioritization or potential value**, leading to inconsistent follow‑ups and missed high‑value opportunities.
 * Designed and implemented a **lead scoring framework** using historical conversion data, deal size patterns, and business attributes.
