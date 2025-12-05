@@ -2,7 +2,7 @@
 
 **Product Management**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-animeshprasad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/animeshprasad-/)       
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh-Prasad--blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/animeshprasad-/)       
 [![Email](https://img.shields.io/badge/Email-animeshprasad92%40gmail.com-red?style=flat&logo=gmail)](mailto:animeshprasad92@gmail.com)
 
 ---
