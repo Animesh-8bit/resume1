@@ -94,7 +94,7 @@
 * Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
 * Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
 * Developed a **project deduplication framework**, reducing duplicates by **33%**.
-
+---
 ### **Associate – Product Ops (Jul 2023 – Mar 2024)**
 
 * Enabled **end-to-end lead funnel visibility** via Store POS & Field Sales App integration.
