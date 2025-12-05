@@ -21,7 +21,7 @@
 <table>
   <tr>
     <!-- LEFT COLUMN -->
-    <td style="width: 30%; vertical-align: top; padding-right: 20px;>
+    <td style="width: 30%; vertical-align: top;>
       <div style="display: flex; flex-direction: column; justify-content: flex-start;">
 <h3>Core Competencies</h3>
 
