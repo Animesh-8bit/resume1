@@ -8,8 +8,6 @@
 
 </div>
 
-
-
 ## **Profile Summary**
 
 * Dynamic professional with 3 years of experience in product management and operations within the software industry.
@@ -38,7 +36,7 @@
 - Requirement Gathering & PRD Creation<br>
 - GTM Planning & Execution<br>
 - Agile & Scrum Methodologies<br>
--   Product Roadmap & Governance<br>
+- Product Roadmap & Governance<br>
 <h3>Education</h3>
 <p><strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023</p>
 <p><strong>B.A. English (Hons.)</strong><br>Magadh University, 2019</p>
@@ -58,12 +56,14 @@
 # **Work Experience**
 
 
-## **peopleHum** | Sep 2025 – Present**
+## **peopleHum** | Sep 2025 – Present
 
 ### **Associate Product Manager (Sep 2025 – Present)**
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -90,24 +90,11 @@
 * Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
 * Developed a **project deduplication framework**, reducing duplicates by **33%**.
 
-### **Projects**
-
-#### **Deal Mining & High-Value Opportunity Identification**
-
-* Identified hidden high-value opportunities across the CRM by analyzing deal lifecycle patterns, probability indicators, commercial behavior, and historical performance.
-
-* Built a deal mining framework to surface stale, undervalued, or low-engagement deals with strong revenue potential.
-
-* Enabled targeted outreach by sales teams, resulting in **32% conversion** of mined high-value deals and generating **₹1.3 Cr in direct revenue**.
-
-#### **Lead Prioritization & Deal Potential Scoring System**
-
-* Identified a critical gap in CRM where new inbound leads had **no clarity on prioritization or potential value**, leading to inconsistent follow‑ups and missed high‑value opportunities.
-* Designed and implemented a **lead scoring framework** using historical conversion data, deal size patterns, and business attributes.
-* Automated lead classification into **High / Medium / Low potential**, enabling faster decision‑making for sales teams.
-* Improved **lead routing accuracy**, increased **conversion rates**, and reduced manual evaluation time.
-
----
+</tr>
+</table>
+<table>
+<tr>
+    <td style="width: 100%; vertical-align: top;">
 
 ### **Associate – Product Ops (Jul 2023 – Mar 2024)**
 
@@ -135,3 +122,22 @@
 * Improved messaging delivery rates **73% → 84%** via auto-rechanneling.
 
 ---
+
+</table>
+
+### **Projects**
+
+#### **Deal Mining & High-Value Opportunity Identification**
+
+* Identified hidden high-value opportunities across the CRM by analyzing deal lifecycle patterns, probability indicators, commercial behavior, and historical performance.
+
+* Built a deal mining framework to surface stale, undervalued, or low-engagement deals with strong revenue potential.
+
+* Enabled targeted outreach by sales teams, resulting in **32% conversion** of mined high-value deals and generating **₹1.3 Cr in direct revenue**.
+
+#### **Lead Prioritization & Deal Potential Scoring System**
+
+* Identified a critical gap in CRM where new inbound leads had **no clarity on prioritization or potential value**, leading to inconsistent follow‑ups and missed high‑value opportunities.
+* Designed and implemented a **lead scoring framework** using historical conversion data, deal size patterns, and business attributes.
+* Automated lead classification into **High / Medium / Low potential**, enabling faster decision‑making for sales teams.
+* Improved **lead routing accuracy**, increased **conversion rates**, and reduced manual evaluation time.
