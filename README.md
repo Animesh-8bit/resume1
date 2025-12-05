@@ -1,17 +1,26 @@
 <div align="center">
 
 # ANIMESH PRASAD
+## **Product Management**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh_Prasad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/animeshprasad-/) 
+[![Email](https://img.shields.io/badge/Email-animeshprasad92%40gmail.com-red?style=flat&logo=gmail)](mailto:animeshprasad92@gmail.com)
 
 </div>
 
-**Product Management**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh-Prasad--blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/animeshprasad-/)       
-[![Email](https://img.shields.io/badge/Email-animeshprasad92%40gmail.com-red?style=flat&logo=gmail)](mailto:animeshprasad92@gmail.com)
+
+## **Profile Summary**
+
+* Dynamic professional with 3 years of experience in product management and operations within the software industry.
+* Skilled in gathering business requirements, PRD creation, and converting them into user stories, epics, and test cases.
+* Adept in Agile/Scrum, prioritization, backlog management, and product release cycles.
+* Hands-on experience with CRM systems, streamlining workflows, and enhancing operational efficiency.
+* Strong analytical mindset with a proven record of improving adoption, performance, and business processes.
 
 ---
-
-## **Core Competencies**
+<!-- 
+## ****
 
 * Cross-Functional Collaboration
 * Pre-Sales / Catalogue Management
@@ -26,41 +35,42 @@
 * Agile & Scrum Methodologies
 * Product Roadmap & Governance
 
----
+--- -->
 
-## **Education Credentials**
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td style="width: 30%; vertical-align: top; padding-right: 20px;">
 
-* **MBA in Operations & HR**, Lovely Professional University — 2023
-* **B.A. in English (Hons.)**, Magadh University — 2019
+<h3>Core Competencies</h3>
 
----
+- Cross-Functional Collaboration <br>
+- Pre-Sales / Catalogue Management<br>
+- Client / Stakeholder Management<br>
+- Feature Prioritization & Release Management<br>
+- Vendor & Supplier Management<br>
+- User Story & Test Case Development<br>
+- Product Lifecycle Management<br>
+- B2B SaaS Product Deployment<br>
+- Requirement Gathering & PRD Creation<br>
+- GTM Planning & Execution<br>
+- Agile & Scrum Methodologies<br>
+-   Product Roadmap & Governance<br>
 
-## **Tools Skills**
+<h3>Education</h3>
+      <p><strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023</p>
+      <p><strong>B.A. English (Hons.)</strong><br>Magadh University, 2019</p>
+<h3> Skills</h3>
+      <ul>
+        <li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
+        <li><strong>Project Management:</strong> JIRA, Confluence</li>
+        <li><strong>Prototyping & Design:</strong> Figma, Canva, Whimsical</li>
+        <li><strong>CRM:</strong> Freshdesk, Zendesk, Ozonetel, Gupshup</li>
+        <li><strong>API & Testing:</strong> Postman</li>
+      </ul>
+    </td>       
+<td style="width: 70%; vertical-align: top">
 
-**Data Analytics:** Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau
-**Project Management:** JIRA, Confluence
-**Prototyping & Design:** Figma, Canva, Whimsical
-**CRM:** Freshdesk, Zendesk, Ozonetel, Gupshup
-**API & Testing:** Postman
-
----
-
-## **Personal Details**
-
-* **Languages:** English & Hindi
-* **Location:** Bangalore — 560068
-
----
-
-## **Profile Summary**
-
-* Dynamic professional with 2+ years of experience in product management and operations within the software industry.
-* Skilled in gathering business requirements, PRD creation, and converting them into user stories, epics, and test cases.
-* Adept in Agile/Scrum, prioritization, backlog management, and product release cycles.
-* Hands-on experience with CRM systems, streamlining workflows, and enhancing operational efficiency.
-* Strong analytical mindset with a proven record of improving adoption, performance, and business processes.
-
----
 
 # **Work Experience**
 
@@ -68,7 +78,6 @@
 ## **peopleHum** | Sep 2025 – Present**
 
 ### **Associate Product Manager (Sep 2025 – Present)**
-
 
 
 
