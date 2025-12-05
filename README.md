@@ -66,6 +66,9 @@
 ### **Associate Product Manager (Sep 2025 – Present)**
 
 
+
+
+
 ---
 
 ## **Infra.Market | Feb 2023 – Present**
@@ -90,11 +93,10 @@
 * Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
 * Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
 * Developed a **project deduplication framework**, reducing duplicates by **33%**.
-* Led deal-mining initiatives generating **₹1.3 Cr** revenue from targeted deals.
 
-## **Projects**
+### **Projects**
 
-### **Deal Mining & High-Value Opportunity Identification**
+#### **Deal Mining & High-Value Opportunity Identification**
 
 * Identified hidden high-value opportunities across the CRM by analyzing deal lifecycle patterns, probability indicators, commercial behavior, and historical performance.
 
@@ -102,7 +104,7 @@
 
 * Enabled targeted outreach by sales teams, resulting in **32% conversion** of mined high-value deals and generating **₹1.3 Cr in direct revenue**.
 
-### **Lead Prioritization & Deal Potential Scoring System**
+#### **Lead Prioritization & Deal Potential Scoring System**
 
 * Identified a critical gap in CRM where new inbound leads had **no clarity on prioritization or potential value**, leading to inconsistent follow‑ups and missed high‑value opportunities.
 * Designed and implemented a **lead scoring framework** using historical conversion data, deal size patterns, and business attributes.
