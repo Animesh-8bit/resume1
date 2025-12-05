@@ -91,10 +91,8 @@
 * Developed a **project deduplication framework**, reducing duplicates by **33%**.
 
 </tr>
-</table>
-<table>
 <tr>
-    <td style="width: 100%; vertical-align: top;">
+    <td colspan="2" style="width: 100%; vertical-align: top;">
 
 ### **Associate – Product Ops (Jul 2023 – Mar 2024)**
 
