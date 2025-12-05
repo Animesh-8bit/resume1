@@ -39,7 +39,7 @@
 - Product Roadmap & Governance<br>
 <h3>Education</h3>
 
-* <strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023<br>
+* <strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023 <br>
 * <strong>B.A. English (Hons.)</strong><br>Magadh University, 2019
 <h3> Tools</h3>
 <ul>
@@ -72,9 +72,9 @@
 
 ### **Career Growth**
 
-* Intern — Feb 2023 to July 2023
-* Associate – Product Ops — July 2023 to March 2024
-* Product Operations Specialist – I — April 2024 to Present
+* Intern - Feb 2023 to July 2023
+* Associate Product Ops - July 2023 to March 2024
+* Product Operations Specialist – I - April 2024 to Present
 
 ### **Product Operations Specialist – I (Apr 2024 – Present)**
 
