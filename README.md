@@ -4,10 +4,8 @@
 ## **Product Management**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh_Prasad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/animeshprasad-/) 
-
 [![Email](https://img.shields.io/badge/Email-animeshprasad92%40gmail.com-red?style=flat&logo=gmail)](mailto:animeshprasad92@gmail.com) 
-
-[![Calendly](https://img.shields.io/badge/Calendly-Schedule_Meeting-blue?style=flat&logo=googlechalendar)](https://calendly.com/animeshprasad92/30min)
+[![Calendly](https://img.shields.io/badge/Calendly-Schedule_Meeting-yellow?style=flat&logo=googlechalendar)](https://calendly.com/animeshprasad92/30min)
 
 </div>
 
