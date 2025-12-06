@@ -22,8 +22,8 @@
 <table>
   <tr>
     <!-- LEFT COLUMN -->
-    <td style="width: 30%; vertical-align: top;>
-      <div style="display: flex; flex-direction: column; justify-content: flex-start;">
+    <td style="width: 30%; vertical-align: top;">
+      <div style="display: flex; flex-direction: column; justify-content: flex-start; font-size: 13px;">
 <h3>Core Competencies</h3>
 
 - Cross-Functional Collaboration <br>
