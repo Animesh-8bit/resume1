@@ -48,16 +48,16 @@
 
 ---
 
-<h3> Tools</h3>
+<h3Tools</h3>
 <ul>
-<li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
-<li><strong>Project Management:</strong> JIRA, Confluence</li>
-<li><strong>Prototyping & Design:</strong> Figma, Canva, Whimsical</li>
-<li><strong>CRM:</strong> Freshdesk, Zendesk, Ozonetel, Gupshup</li>
-<li><strong>API & Testing:</strong> Postman</li>
+<li><strong>Data Analytics:</strongPower BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
+<li><strong>Project Management:</strongJIRA, Confluence</li>
+<li><strong>Prototyping & Design:</strongFigma, Canva, Whimsical</li>
+<li><strong>CRM:</strongFreshdesk, Zendesk, Ozonetel, Gupshup</li>
+<li><strong>API & Testing:</strongPostman</li>
 </ul>
         </div>
-    </td>       
+    </td      
 <td style="width: 70%; vertical-align: top">
 
 
@@ -93,11 +93,11 @@
 * Led WhatsApp chatbot integration, achieving **13 FTE** equivalent savings.
 * Managed vendor relationships: Zendesk, Ozonetel, Gupshup, SendGrid, TrueCaller, IndiaMart, PIMWorks.
 
-> **✨ Highlights:**
-> * Reduced discounting workflow errors from **76 → 17 orders/day**.
-> * Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
-> * Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
-> * Developed a **project deduplication framework**, reducing duplicates by **33%**.
+**✨ Highlights:**
+* Reduced discounting workflow errors from **76 → 17 orders/day**.
+* Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
+* Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
+* Developed a **project deduplication framework**, reducing duplicates by **33%**.
 </tr>
 <tr>
     <td colspan="2" style="width: 100%; vertical-align: top;">
@@ -113,12 +113,12 @@
 * Implemented **consent & preference management** for regulatory compliance.
 * Streamlined vendor operations with Ozonetel, Gupshup, SendGrid, TextLocal, Kapture.
 
-> **✨ Highlights:**
-> * Built centralized Pre-Sales CRM for **15+ business units**, integrating **8+ channels**, saving **₹14L annually**.
-> * Integrated Ozonetel telephony → lead capture time **2 min → 5 sec**, calls/agent **150 → 180/day**.
-> * Enabled digital revenue potential of **₹350 Cr/month**.
-> * Led CRM data migration with **98% accuracy** and **94% coverage**.
-> * Migrated SMS infra to Gupshup → costs reduced by **~32%**.
+**✨ Highlights:**
+* Built centralized Pre-Sales CRM for **15+ business units**, integrating **8+ channels**, saving **₹14L annually**.
+* Integrated Ozonetel telephony → lead capture time **2 min → 5 sec**, calls/agent **150 → 180/day**.
+* Enabled digital revenue potential of **₹350 Cr/month**.
+* Led CRM data migration with **98% accuracy** and **94% coverage**.
+* Migrated SMS infra to Gupshup → costs reduced by **~32%**.
 
 ---
 
