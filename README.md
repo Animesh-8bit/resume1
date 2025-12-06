@@ -48,16 +48,16 @@
 
 ---
 
-<h3Tools</h3>
+<h3> Tools</h3>
 <ul>
-<li><strong>Data Analytics:</strongPower BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
-<li><strong>Project Management:</strongJIRA, Confluence</li>
-<li><strong>Prototyping & Design:</strongFigma, Canva, Whimsical</li>
-<li><strong>CRM:</strongFreshdesk, Zendesk, Ozonetel, Gupshup</li>
-<li><strong>API & Testing:</strongPostman</li>
+<li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
+<li><strong>Project Management:</strong> JIRA, Confluence</li>
+<li><strong>Prototyping & Design:</strong> Figma, Canva, Whimsical</li>
+<li><strong>CRM:</strong> Freshdesk, Zendesk, Ozonetel, Gupshup</li>
+<li><strong>API & Testing:</strong> Postman</li>
 </ul>
         </div>
-    </td      
+    </td>       
 <td style="width: 70%; vertical-align: top">
 
 
