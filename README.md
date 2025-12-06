@@ -95,15 +95,15 @@
 * Led WhatsApp chatbot integration, achieving **13 FTE** equivalent savings.
 * Managed vendor relationships: Zendesk, Ozonetel, Gupshup, SendGrid, TrueCaller, IndiaMart, PIMWorks.
 
+</tr>
+<tr>
+    <td colspan="2" style="width: 100%; vertical-align: top;">
+
 **✨ Highlights:**
 * Reduced discounting workflow errors from **76 → 17 orders/day**.
 * Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
 * Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
 * Developed a **project deduplication framework**, reducing duplicates by **33%**.
-</tr>
-<tr>
-    <td colspan="2" style="width: 100%; vertical-align: top;">
-
 
 ### **📊 Associate – Product Ops (Jul 2023 – Mar 2024)**
 
