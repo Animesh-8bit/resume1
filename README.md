@@ -1,3 +1,10 @@
+<style>
+  @media (max-width: 768px) {
+    table { width: 100% !important; }
+    td { width: 100% !important; display: block !important; }
+  }
+</style>
+
 <div align="center">
 
 # ANIMESH PRASAD
@@ -38,10 +45,16 @@
 - GTM Planning & Execution<br>
 - Agile & Scrum Methodologies<br>
 - Product Roadmap & Governance<br>
+
+---
+
 <h3>Education</h3>
 
 * <strong>MBA (Operations & HR)</strong><br>Lovely Professional University, 2023 <br>
 * <strong>B.A. English (Hons.)</strong><br>Magadh University, 2019
+
+---
+
 <h3> Tools</h3>
 <ul>
 <li><strong>Data Analytics:</strong> Power BI, Looker Studio, SQL, Excel, Mixpanel, Tableau</li>
@@ -60,7 +73,7 @@
 
 ## **peopleHum** | Sep 2025 – Present
 
-### **Associate Product Manager (Sep 2025 – Present)**
+### **💼 Associate Product Manager (Sep 2025 – Present)**
 
 <br>
 <br>
@@ -73,30 +86,32 @@
 
 ### **Career Growth**
 
-* Intern - Feb 2023 to July 2023
-* Associate Product Ops - July 2023 to March 2024
-* Product Operations Specialist – I - April 2024 to Present
+---
 
-### **Product Operations Specialist – I (Apr 2024 – Present)**
+* 🎓 Intern - Feb 2023 to July 2023
+* 📊 Associate Product Ops - July 2023 to March 2024
+* 🛠️ Product Operations Specialist – I - April 2024 to Present
+
+### **🛠️ Product Operations Specialist – I (Apr 2024 – Present)**
 
 * Owned & optimized the central **Catalogue Management system** across 84 product & service categories.
 * Led taxonomy restructuring with Tech & Business teams, reducing system risk & downtime.
 * Managed the **Internal Pre-Sales CRM**, integrating People, Companies & Projects for contextual selling.
 * Led WhatsApp chatbot integration, achieving **13 FTE** equivalent savings.
 * Managed vendor relationships: Zendesk, Ozonetel, Gupshup, SendGrid, TrueCaller, IndiaMart, PIMWorks.
+
+> **✨ Highlights:**
+> * Reduced discounting workflow errors from **76 → 17 orders/day**.
+> * Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
+> * Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
+> * Developed a **project deduplication framework**, reducing duplicates by **33%**.
 </tr>
 <tr>
     <td colspan="2" style="width: 100%; vertical-align: top;">
-
-
-**Highlights:**
-
-* Reduced discounting workflow errors from **76 → 17 orders/day**.
-* Designed a **deal scoring model** improving conversion from **1.79% → 2.45%**.
-* Built a **deal assignment engine** that saved **90 mins/agent/day**, boosting conversion **2.45% → 3.17%**.
-* Developed a **project deduplication framework**, reducing duplicates by **33%**.
 ---
-### **Associate – Product Ops (Jul 2023 – Mar 2024)**
+
+
+### **📊 Associate – Product Ops (Jul 2023 – Mar 2024)**
 
 * Enabled **end-to-end lead funnel visibility** via Store POS & Field Sales App integration.
 * Built a **source-wise lead assignment engine** for high-quality lead prioritization.
@@ -105,17 +120,16 @@
 * Implemented **consent & preference management** for regulatory compliance.
 * Streamlined vendor operations with Ozonetel, Gupshup, SendGrid, TextLocal, Kapture.
 
-**Highlights:**
-
-* Built centralized Pre-Sales CRM for **15+ business units**, integrating **8+ channels**, saving **₹14L annually**.
-* Integrated Ozonetel telephony → lead capture time **2 min → 5 sec**, calls/agent **150 → 180/day**.
-* Enabled digital revenue potential of **₹350 Cr/month**.
-* Led CRM data migration with **98% accuracy** and **94% coverage**.
-* Migrated SMS infra to Gupshup → costs reduced by **~32%**.
+> **✨ Highlights:**
+> * Built centralized Pre-Sales CRM for **15+ business units**, integrating **8+ channels**, saving **₹14L annually**.
+> * Integrated Ozonetel telephony → lead capture time **2 min → 5 sec**, calls/agent **150 → 180/day**.
+> * Enabled digital revenue potential of **₹350 Cr/month**.
+> * Led CRM data migration with **98% accuracy** and **94% coverage**.
+> * Migrated SMS infra to Gupshup → costs reduced by **~32%**.
 
 ---
 
-### **Intern (Feb 2023 – Jul 2023)**
+### **🎓 Intern (Feb 2023 – Jul 2023)**
 
 * Integrated D365 for real-time **inventory visibility**, reducing miscommunication **30/day → 13/day**.
 * Built QR-based sticker printing → TAT **3 days → on-demand**, cost **$10/month → zero**.
@@ -123,9 +137,11 @@
 
 </table>
 
-### **Projects**
+---
 
-#### **Deal Mining & High-Value Opportunity Identification - Infra.Market**
+### **🎯 Projects**
+
+#### **1. Deal Mining & High-Value Opportunity Identification - Infra.Market**
 
 * Identified hidden high-value opportunities across the CRM by analyzing deal lifecycle patterns, probability indicators, commercial behavior, and historical performance.
 
@@ -133,7 +149,7 @@
 
 * Enabled targeted outreach by sales teams, resulting in **32% conversion** of mined high-value deals and generating **₹1.3 Cr in direct revenue**.
 
-#### **Lead Prioritization & Deal Potential Scoring System - Infra.Market**
+#### **2. Lead Prioritization & Deal Potential Scoring System - Infra.Market**
 
 * Identified a critical gap in CRM where new inbound leads had **no clarity on prioritization or potential value**, leading to inconsistent follow‑ups and missed high‑value opportunities.
 * Designed and implemented a **lead scoring framework** using historical conversion data, deal size patterns, and business attributes.
