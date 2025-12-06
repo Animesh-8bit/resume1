@@ -65,7 +65,7 @@
 # **Work Experience**
 
 
-##  <img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/jafi6efipa5aulnjwk3o?ik-sanitizeSvg=true" width="30" style="vertical-align:middle; margin-right:6px;">  **peopleHum** | Sep 2025 – Present
+##  <img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/jafi6efipa5aulnjwk3o?ik-sanitizeSvg=true" width="25" style="vertical-align:middle; margin-right:6px;">  **peopleHum** | Sep 2025 – Present
 
 ### **💼 Associate Product Manager (Sep 2025 – Present)**
 
@@ -76,7 +76,7 @@
 
 ---
 
-## <img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/k5fs0xidnl6niaouuian?ik-sanitizeSvg=true" width="30" style="vertical-align:bottom; margin-right:6px;"> **Infra.Market | Feb 2023 – Present**
+## <img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/k5fs0xidnl6niaouuian?ik-sanitizeSvg=true" width="25" style="vertical-align:bottom; margin-right:6px;"> **Infra.Market | Feb 2023 – Present**
 
 
 ### **Career Growth**
