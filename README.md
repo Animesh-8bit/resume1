@@ -24,7 +24,7 @@
     <!-- LEFT COLUMN -->
     <td style="width: 30%; vertical-align: top;>
       <div style="display: flex; flex-direction: column; justify-content: flex-start;">
-<small>
+
 <h3>Core Competencies</h3>
 
 - Cross-Functional Collaboration <br>
@@ -39,7 +39,7 @@
 - GTM Planning & Execution<br>
 - Agile & Scrum Methodologies<br>
 - Product Roadmap & Governance<br>
-</small>
+
 ---
 
 <h3>Education</h3>
