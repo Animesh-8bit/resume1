@@ -1,10 +1,3 @@
-<style>
-  @media (max-width: 768px) {
-    table { width: 100% !important; }
-    td { width: 100% !important; display: block !important; }
-  }
-</style>
-
 <div align="center">
 
 # ANIMESH PRASAD
