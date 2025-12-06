@@ -76,18 +76,18 @@
 
 ---
 
-## <img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/k5fs0xidnl6niaouuian?ik-sanitizeSvg=true" width="25" style="vertical-align:bottom; margin-right:6px;"> **Infra.Market | Feb 2023 – Present**
+## <img src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_2/k5fs0xidnl6niaouuian?ik-sanitizeSvg=true" width="25" style="vertical-align:bottom; margin-right:6px;"> **Infra.Market | Feb 2023 – Sep 2025**
 
 
 ### **Career Growth**
 
 ---
 
-* 🎓 Intern - Feb 2023 to July 2023
-* 📊 Associate Product Ops - July 2023 to March 2024
-* 🛠️ Product Operations Specialist – I - April 2024 to Present
+* 🎓 Intern - Feb 2023 to Jul 2023
+* 📊 Associate Product Ops - Jul 2023 to Mar 2024
+* 🛠️ Product Operations Specialist – I - Apr 2024 to Sep 2025
 
-### **🛠️ Product Operations Specialist – I (Apr 2024 – Present)**
+### **🛠️ Product Operations Specialist – I (Apr 2024 – Sep 2025)**
 
 * Owned & optimized the central **Catalogue Management system** across 84 product & service categories.
 * Led taxonomy restructuring with Tech & Business teams, reducing system risk & downtime.
